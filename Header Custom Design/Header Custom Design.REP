@@ -2,17 +2,14 @@
 FileName = Header Custom Design.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : Header Custom Design.GBL
+Generating : Mechanical 1
+      File : Header Custom Design.GM1
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D13
-    D14
+    D19
 *************************************************************
 
 *************************************************************
@@ -30,17 +27,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Header Custom Design.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : Header Custom Design.GTP
 
@@ -55,19 +41,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Header Custom Design.GTS
+Generating : Bottom Layer
+      File : Header Custom Design.GBL
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -84,6 +70,26 @@ Generating : Bottom Solder
 Used DCodes :
     D10
     D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Header Custom Design.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -96,8 +102,10 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D12
-    D13
     D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
