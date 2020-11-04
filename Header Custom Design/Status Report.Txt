@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Header Custom Design.PrjPcb]
+   Generated File[Header Custom Design.TXT]
+   Generated File[Header Custom Design.LDP]
+   Generated File[Header Custom Design.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:07:29 AM On 10/1/2020
